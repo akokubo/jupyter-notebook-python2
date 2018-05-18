@@ -1,1 +1,1 @@
-# jupyter-notebook-python2
+# Python勉強ノート
